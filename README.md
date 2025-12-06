@@ -71,15 +71,3 @@ I am a **Data Scientist** currently pursuing my **MSc in Data Science** at the I
 **BSc in Computer Science** | *University of Thessaly (Lamia)*
 *2017 – 2023*
 * **Thesis:** “Smart Recognition of Fake News”
-
----
-
-### 💼 Experience Highlights
-
-**Digital Marketer (Self-Employed)** | *2024 – 2025*
-* Analyzed campaign performance metrics (CTR, conversion rates) and leveraged market research data to tailor content strategies.
-
-**Construction Site Assistant** | *2025 – Present*
-* Supporting construction operations while completing Master's dissertation in Machine Learning and Artificial Intelligence.
-
----
