@@ -83,8 +83,3 @@ I am a **Data Scientist** currently pursuing my **MSc in Data Science** at the I
 * Supporting construction operations while completing Master's dissertation in Machine Learning and Artificial Intelligence.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkyria&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkyria&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
