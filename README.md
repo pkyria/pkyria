@@ -38,6 +38,7 @@ I am a **Data Scientist** currently pursuing my **MSc in Data Science** at the I
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-46BC99?style=flat)
 
 **Deployment & Tools:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
