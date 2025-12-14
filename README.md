@@ -56,7 +56,7 @@ I am a **Data Scientist** currently pursuing my **MSc in Data Science** at the I
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **MovieVec (Semantic Search)** | Python, PyTorch, FAISS, FastAPI, Docker | Built a semantic search engine for 800K+ movies using Sentence Transformers. Features vector databasing, cross-encoder re-ranking, and is deployed as a GPU-optimized service (<500ms latency). |
+| **MovieVec (Semantic Search & RAG System)** | Python, PyTorch, FAISS, FastAPI, Docker | Built a semantic search engine for 800K+ movies using Sentence Transformers. Features vector databasing, cross-encoder re-ranking, and is deployed as a GPU-optimized service (<500ms latency). |
 | **Fake News Detection** | TensorFlow, NLTK, Scikit-learn | Developed NLP models for fake news classification across three large-scale datasets. Achieved **78.33% accuracy** via optimized text preprocessing and tokenization. |
 | **Customer Segmentation** | Python, Power BI, K-Means, RFM | **Team Lead.** Developed K-Means and RFM segmentation models and churn forecasting. Created Power BI dashboards to improve targeting accuracy for marketing decisions. |
 | **Question Similarity** | Scikit-learn, PyTorch, S-BERT | Built a duplicate question classifier using TF-IDF and Sentence-BERT embeddings. Compared XGBoost/LightGBM/LSTM models, achieving **0.26 log loss**. |
